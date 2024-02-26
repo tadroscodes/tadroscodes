@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joseph Tadros
 - 👀 I’m interested in statistics, software developement, and data Science
 - 🌱 I’m currently learning data analysis and representation in Python and R
-- 💞️ I’m looking to collaborate on anything data Science related or just any interesting projects!
+- 💞️ I’m looking to collaborate on anything data science related or just any interesting projects!
 - 📫 How to reach me Instagram: @josephtadr05 LinkedIn: linkedin.com/in/josephtadroscs/
 
 <!---
